@@ -79,8 +79,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 . legislação;
 . sistemas;
 . política de proteção de dados.
+
 * Case
- Na Engenharia de Software, um caso de uso é um tipo de classificador representando uma unidade funcional coerente provida pelo sistema, subsistema, ou classe manifestada por sequências de mensagens intercambiáveis entre os sistemas e um ou mais atores
+## Na Engenharia de Software, um caso de uso é um tipo de classificador representando uma unidade funcional coerente provida pelo sistema, subsistema, ou classe manifestada por sequências de mensagens intercambiáveis entre os sistemas e um ou mais atores
 Exemplo  | Valor do exemplo
 -------- | ------
   pizza  | R$ 11
