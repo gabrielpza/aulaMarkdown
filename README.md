@@ -81,11 +81,11 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 . política de proteção de dados.
 * Case
  Na Engenharia de Software, um caso de uso é um tipo de classificador representando uma unidade funcional coerente provida pelo sistema, subsistema, ou classe manifestada por sequências de mensagens intercambiáveis entre os sistemas e um ou mais atores
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 11
-Exemplo 2 | R$ 4
-Exemplo 3 | R$ 3
-Exemplo 4 | R$ 9
+Exemplo  | Valor do exemplo
+-------- | ------
+  pizza  | R$ 11
+pastel   | R$ 4
+coxinha  | R$ 3
+esfirra  | R$ 9
 
 ## Para mais informações sobre requisitos [https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao]
