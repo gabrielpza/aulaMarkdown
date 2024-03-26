@@ -37,7 +37,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## O software deve permitir o cadastro de clientes;
 ## O software deve permitir a geração de relatórios sobre o desempenho de vendas no semestre;
 ## O software deve permitir o pagamento das compras através de cartão de crédito.
-!9https://res.cloudinary.com/practicaldev/image/fetch/s--SKUh3GHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o63vc02gw53b0r1xw505.jpg) 
+![imagem](9https://res.cloudinary.com/practicaldev/image/fetch/s--SKUh3GHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o63vc02gw53b0r1xw505.jpg) 
 
 * Requisitos não funcionais
 ## Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias envolvidas.
@@ -47,7 +47,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 . Disponibilidade: O sistema deve estar disponível quando necessário.
 . Manutenção: O sistema deve ser fácil de manter e atualizar.
 . Portabilidade: O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas.
-!(https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png)
+![imagem](https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png)
 
 * Requisitos de Produto Final
 ##Os requisitos de produto final são aqueles que estão relacionados ao comportamento do software, como:
@@ -80,13 +80,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 . sistemas;
 . política de proteção de dados.
 
-* Case
-## Na Engenharia de Software, um caso de uso é um tipo de classificador representando uma unidade funcional coerente provida pelo sistema, subsistema, ou classe manifestada por sequências de mensagens intercambiáveis entre os sistemas e um ou mais atores
-Exemplo  | Valor do exemplo
 -------- | ------
-exemplo  | R$ 11
-exemplo  | R$ 4
-exemplo  | R$ 3
-exemplo  | R$ 9
+requisitos funcionais  | São ligados diretamenta as funcionalidades 
+requisitos não funcionais  | São relacionados ao uso da aplicação
+requisitos organizacionais  | São requisitos relacionados ao padrão de organização
+requisitos externos | 
 
-## Para mais informações sobre requisitos [https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao]
