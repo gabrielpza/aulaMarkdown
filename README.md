@@ -84,5 +84,5 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 requisitos funcionais  | São ligados diretamenta as funcionalidades 
 requisitos não funcionais  | São relacionados ao uso da aplicação
 requisitos organizacionais  | São requisitos relacionados ao padrão de organização
-requisitos externos | 
+requisitos externos | são relacionados a qualquer tipo de agente externo
 
